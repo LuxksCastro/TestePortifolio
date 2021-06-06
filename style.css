@@ -1,0 +1,5 @@
+/*Importação das fontes pelo método import através do link fornecido pelo google fonts*/
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Tammudu+2:wght@400;700;800&family=Lobster&family=Mate:ital@0;1&family=Open+Sans:ital,wght@0,300;0,600;0,800;1,300;1,600;1,800&family=Orelega+One&display=swap');
+
+/*Importação da font-awesome que é uma fonte com diversos icones através de um CDN. Site em que peguei o link: https://cdnjs.com/libraries/font-awesome*/
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css");
